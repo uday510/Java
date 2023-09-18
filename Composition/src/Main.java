@@ -9,9 +9,7 @@ public class Main {
         PersonalComputer thePC = new PersonalComputer("2208", "Dell", theCase, theMonitor,
                 theMotherBoard);
 
-
-        thePC.getMonitor().drawPixelAt(10, 10, "red");
-
+        thePC.powerUp();
 
     }
 }
