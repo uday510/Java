@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringFormatting/StringFormatting.iml" filepath="$PROJECT_DIR$/StringFormatting/StringFormatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringMethods/StringMethods.iml" filepath="$PROJECT_DIR$/StringMethods/StringMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheObjectClass/TheObjectClass.iml" filepath="$PROJECT_DIR$/TheObjectClass/TheObjectClass.iml" />
+    </modules>
+  </component>
+</project>
