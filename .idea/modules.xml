@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Counter/Counter.iml" filepath="$PROJECT_DIR$/Counter/Counter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/HttpFetch/HttpFetch.iml" filepath="$PROJECT_DIR$/HttpFetch/HttpFetch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
@@ -15,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/StringBuilderClass/StringBuilderClass.iml" filepath="$PROJECT_DIR$/StringBuilderClass/StringBuilderClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringFormatting/StringFormatting.iml" filepath="$PROJECT_DIR$/StringFormatting/StringFormatting.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringMethods/StringMethods.iml" filepath="$PROJECT_DIR$/StringMethods/StringMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Synchronisation/Synchronisation.iml" filepath="$PROJECT_DIR$/Synchronisation/Synchronisation.iml" />
       <module fileurl="file://$PROJECT_DIR$/TheObjectClass/TheObjectClass.iml" filepath="$PROJECT_DIR$/TheObjectClass/TheObjectClass.iml" />
     </modules>
   </component>
