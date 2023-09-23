@@ -3,8 +3,11 @@ import java.util.concurrent.*;
 public class MergeSort implements Callable<List<Integer>> {
     private final List<Integer> list;
 
-    MergeSort(List<Integer> list) {
+    ExecutorService executorService;
+
+    MergeSort(List<Integer> list, ExecutorService executorService) {
         this.list = list;
+        this.executorService = executorService;
     }
     public List<Integer> call() throws  Exception {
 
@@ -26,10 +29,8 @@ public class MergeSort implements Callable<List<Integer>> {
             rightSubList.add(list.get(i));
         }
 
-        ExecutorService executorService = Executors.newCachedThreadPool();
-
-        MergeSort unsortedLeftList = new MergeSort(leftSubList);
-        MergeSort unsortedRightList = new MergeSort(rightSubList);
+        MergeSort unsortedLeftList = new MergeSort(leftSubList, executorService);
+        MergeSort unsortedRightList = new MergeSort(rightSubList, executorService);
 
 
         Future<List<Integer>> left = executorService.submit(unsortedLeftList);
