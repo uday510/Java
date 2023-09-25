@@ -13,9 +13,11 @@ public class Subtractor implements Callable<Void> {
 
     public Void call() {
         for (int i = 1; i <= 10000; ++i) {
+            System.out.println("Subtractor locked: " + i);
             this.lock.lock();
             this.nums.num -= 1;
             this.lock.unlock();
+            System.out.println("Subtractor un-locked: " + i);
         }
         return null;
     }

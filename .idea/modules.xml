@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdderSubtractor/AdderSubtractor.iml" filepath="$PROJECT_DIR$/AdderSubtractor/AdderSubtractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdderSubtractorSynchronized/AdderSubtractorSynchronized.iml" filepath="$PROJECT_DIR$/AdderSubtractorSynchronized/AdderSubtractorSynchronized.iml" />
       <module fileurl="file://$PROJECT_DIR$/Callable/Callable.iml" filepath="$PROJECT_DIR$/Callable/Callable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
