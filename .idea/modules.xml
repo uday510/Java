@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/AdderSubtractor/AdderSubtractor.iml" filepath="$PROJECT_DIR$/AdderSubtractor/AdderSubtractor.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdderSubtractorSynchronized/AdderSubtractorSynchronized.iml" filepath="$PROJECT_DIR$/AdderSubtractorSynchronized/AdderSubtractorSynchronized.iml" />
       <module fileurl="file://$PROJECT_DIR$/Callable/Callable.iml" filepath="$PROJECT_DIR$/Callable/Callable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CallableThreads/CallableThreads.iml" filepath="$PROJECT_DIR$/CallableThreads/CallableThreads.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/Counter/Counter.iml" filepath="$PROJECT_DIR$/Counter/Counter.iml" />
@@ -19,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/MergeSort/MergeSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiThreads/MultiThreads.iml" filepath="$PROJECT_DIR$/MultiThreads/MultiThreads.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mutex/Mutex.iml" filepath="$PROJECT_DIR$/Mutex/Mutex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PCScaler/PCScaler.iml" filepath="$PROJECT_DIR$/PCScaler/PCScaler.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrintNumber/PrintNumber.iml" filepath="$PROJECT_DIR$/PrintNumber/PrintNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProducerConsumer/ProducerConsumer.iml" filepath="$PROJECT_DIR$/ProducerConsumer/ProducerConsumer.iml" />
@@ -27,6 +29,8 @@
       <module fileurl="file://$PROJECT_DIR$/StringMethods/StringMethods.iml" filepath="$PROJECT_DIR$/StringMethods/StringMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/Synchronisation/Synchronisation.iml" filepath="$PROJECT_DIR$/Synchronisation/Synchronisation.iml" />
       <module fileurl="file://$PROJECT_DIR$/TheObjectClass/TheObjectClass.iml" filepath="$PROJECT_DIR$/TheObjectClass/TheObjectClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads2/Threads2.iml" filepath="$PROJECT_DIR$/Threads2/Threads2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Threads3/Threads3.iml" filepath="$PROJECT_DIR$/Threads3/Threads3.iml" />
     </modules>
   </component>
 </project>
