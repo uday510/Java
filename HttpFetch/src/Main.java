@@ -15,6 +15,7 @@ public class Main {
 
             connection.setRequestMethod("GET");
 
+
             if (connection.getResponseCode() == HttpURLConnection.HTTP_OK) {
 
                 BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
@@ -30,12 +31,10 @@ public class Main {
                 reader.close();
                 connection.disconnect();
 
-
                 System.out.println(response);
             } else {
                 System.out.println("HTTP error! Status code: " + connection.getResponseCode());
             }
-
         } catch (Exception exception) {
             exception.printStackTrace();
         }
