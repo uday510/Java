@@ -4,7 +4,7 @@ public class Car implements Callable<Car> {
     public int Price, Speed;
 
     public int compareTo(Car otherCar) {
-        return Integer.compare(this.Price, otherCar.Price)
+        return Integer.compare(this.Price, otherCar.Price);
     }
 
     @Override
