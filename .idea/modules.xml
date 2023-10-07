@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/AtomicIntegerExample/AtomicIntegerExample.iml" filepath="$PROJECT_DIR$/AtomicIntegerExample/AtomicIntegerExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/Callable/Callable.iml" filepath="$PROJECT_DIR$/Callable/Callable.iml" />
       <module fileurl="file://$PROJECT_DIR$/CallableThreads/CallableThreads.iml" filepath="$PROJECT_DIR$/CallableThreads/CallableThreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" filepath="$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Concurrency/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency/Concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/Counter/Counter.iml" filepath="$PROJECT_DIR$/Counter/Counter.iml" />
