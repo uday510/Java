@@ -1,4 +1,4 @@
-public class EvenNumberException {
+public class EvenNumberException extends Throwable {
 
 
 }
