@@ -1,27 +1,34 @@
-import java.util.Scanner;
-
 public class Main {
-    public static void main(String[] args) {
 
-//        Movie theMovie = new Adventure("Star Wars");
-//        theMovie.watchMovie();
-
-//        Movie theMovie = Movie.getMovie("Science", "Star Wars");
-//        theMovie.watchMovie();
-
-        Scanner s = new Scanner(System.in);
-        while (true) {
-            System.out.println("Enter Type (A for Adventure, C for Comedy, " +
-                    "S for Science Fiction, or Q to quit): ");
-
-            String type = s.nextLine();
-            if ("Qq".contains(type)) {
-                break;
-            }
-            System.out.println("Enter Movie Title: ");
-            String title = s.nextLine();
-            Movie movie = Movie.getMovie(type, title);
-            movie.watchMovie();
+    /*
+    TODO: Polymorphism is a concept by which we can perform a single action in different ways.
+          Polymorphism is derived from 2 Greek words: poly and morphs.
+          The word "poly" means many and "morphs" means forms.
+          So polymorphism means many forms.
+     */
+    interface Shape {
+        void draw();
+    }
+    static class Circle implements Shape {
+        @Override
+        public void draw() {
+            System.out.println("Drawing a circle");
         }
+    }
+    static class Square implements Shape {
+        @Override
+        public void draw() {
+            System.out.println("Drawing a square");
+        }
+    }
+
+    public static void main(String[] args) {
+        Circle circle = new Circle();
+        Square square = new Square();
+
+        circle.draw();;
+        square.draw();
+
+
     }
 }

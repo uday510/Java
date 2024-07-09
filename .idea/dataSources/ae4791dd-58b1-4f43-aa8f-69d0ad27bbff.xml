@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataSource name="@localhost">
-  <database-model serializer="dbm" dbms="MONGO" family-id="MONGO" format-version="4.49">
-    <root id="1">
-      <ServerVersion>6.0.6</ServerVersion>
-    </root>
+  <database-model serializer="dbm" dbms="MONGO" family-id="MONGO" format-version="4.52">
+    <root id="1"/>
     <schema id="2" parent="1" name="admin">
-      <LocalIntrospectionTimestamp>2023-09-15.19:26:12</LocalIntrospectionTimestamp>
+      <LastIntrospectionLocalTimestamp>2023-09-15.19:26:12</LastIntrospectionLocalTimestamp>
     </schema>
     <schema id="3" parent="1" name="boxOffice">
-      <LocalIntrospectionTimestamp>2023-09-15.19:26:12</LocalIntrospectionTimestamp>
+      <LastIntrospectionLocalTimestamp>2023-09-15.19:26:12</LastIntrospectionLocalTimestamp>
     </schema>
     <schema id="4" parent="1" name="config"/>
     <schema id="5" parent="1" name="contactData"/>
